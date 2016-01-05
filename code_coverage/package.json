@@ -1,0 +1,27 @@
+{
+  "name": "Code_Coverage_Tutorial",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app",
+  "scripts": {
+    "start": "node bin/www",
+    "test": "./node_modules/.bin/_mocha --require blanket --reporter html-cov >coverage.html"
+  },
+  "config": {
+    "blanket": {
+        "pattern": [
+            "test.js"
+        ]
+    }
+},
+  "author": "Romario Raffington",
+  "license": "MIT",
+  "dependencies": {
+    "blanket": "^1.2.1",
+    "express": "^4.13.3",
+    "istanbul": "^0.4.1",
+    "jscoverage": "^0.6.0",
+    "mocha": "^2.3.4",
+    "node-jscover": "^0.6.12"
+  }
+}
