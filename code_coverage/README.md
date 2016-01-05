@@ -9,7 +9,7 @@ A simple example to show code coverage with Istanbul with mocha.
 
 The output in the terminal should look like below:
 
-[[https://github.com/RomarioRaffington/nodeqa_examples/blob/master/code_coverage/img/code-coverage.png|alt=code-covergae]]
+[[https://github.com/RomarioRaffington/nodeqa_examples/tree/master/code_coverage/img/code-coverage.png]]
 
 View the artcle [here] (#)
 
