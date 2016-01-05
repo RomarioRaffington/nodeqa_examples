@@ -11,5 +11,5 @@ The output in the terminal should look like below:
 
 ![Code Coverage](https://github.com/RomarioRaffington/nodeqa_examples/blob/master/code_coverage/img/code-coverage.png)
 
-View the artcle [here] (#)
+View the artcle [here] (http://nodeqa.io/post/istanbul-vs-jscov)
 
