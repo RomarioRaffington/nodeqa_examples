@@ -1,5 +1,5 @@
 # Code Coverage Example
-A simple example to showing code coverage with Istanbul with mocha.
+A simple example to show code coverage with Istanbul with mocha.
 
 
 ## Getting Started
