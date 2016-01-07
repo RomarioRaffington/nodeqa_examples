@@ -46,8 +46,8 @@ describe('Operations', function() {
     });
   });
   
-    // Addition 
-  describe('Addition',function(){
+    // Division 
+  describe('Division',function(){
      
     it('1 / 1', function() {
         assert.equal(app.divison(1, 1), 1);
